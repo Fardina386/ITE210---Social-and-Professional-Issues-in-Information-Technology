@@ -1,6 +1,6 @@
 # ITE210---Social-and-Professional-Issues-in-Information-Technology
 
-This repository has a project with presentation and assignments that covers the majority of the topics studied throughout the course.
+This repository has a group project with its presentation and assignments that covers the majority of the topics studied throughout the course.
 
 1.       Course  Description.
  
